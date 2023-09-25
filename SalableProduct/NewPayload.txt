@@ -1,0 +1,1 @@
+[{"name": "Stamina Potion", "description": "It's helps stamina.", "price": 10.99,"quantity": 100, "quantityPurchased": 0}, {"name": "Chainmail", "description": "It's loud. Disadvantage to stealth.", "price": 150,"quantity": 5,"quantityPurchased": 0}]
